@@ -1,0 +1,32 @@
+# Translation of Plugins - Slim SEO - Development (trunk) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Slim SEO - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-19 13:14:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Slim SEO - Development (trunk)\n"
+
+#. Author URI of the plugin
+msgid "https://elightup.com"
+msgstr "https://elightup.com"
+
+#. Author of the plugin
+msgid "eLightUp"
+msgstr "eLightUp"
+
+#. Plugin URI of the plugin
+msgid "https://elightup.com/products/slim-seo/"
+msgstr "https://elightup.com/products/slim-seo/"
+
+#. Plugin Name of the plugin
+msgid "Slim SEO"
+msgstr "Slim SEO"
+
+#. Description of the plugin
+msgid "A lightweight SEO plugin for WordPress."
+msgstr "Um plugin SEO leve para o WordPress."

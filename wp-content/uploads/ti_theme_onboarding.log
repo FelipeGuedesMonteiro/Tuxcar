@@ -1,0 +1,20 @@
+[06/Mar/2020:11:23:58] (ℹ️): WordPress Instance Info:
+[06/Mar/2020:11:23:58] (ℹ️): Home URL : http://localhost/Tuxcar
+[06/Mar/2020:11:23:58] (ℹ️): Site URL : http://localhost/Tuxcar
+[06/Mar/2020:11:23:58] (ℹ️): WordPress Version : 5.3.2
+[06/Mar/2020:11:23:58] (ℹ️): Onboarding Version : 1.7.12
+[06/Mar/2020:11:23:58] (ℹ️): Multisite : No
+[06/Mar/2020:11:23:58] (ℹ️): Server Info : Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.7
+[06/Mar/2020:11:23:58] (ℹ️): PHP Version : 7.3.7
+[06/Mar/2020:11:23:58] (ℹ️): HTTPS : No
+[06/Mar/2020:11:23:58] (ℹ️): PHP Max Execution Time : 30
+[06/Mar/2020:11:23:58] (ℹ️): PHP Max Input Vars : 1000
+[06/Mar/2020:11:23:58] (ℹ️): Max Upload Size : 2097152
+[06/Mar/2020:11:23:58] (ℹ️): Plugins:
+[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Auto Listings : v2.1.8 (WP Auto Listings)
+[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Everest Forms : v1.6.3 (WPEverest)
+[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Jetpack por WordPress.com : v8.3 (Automattic)
+[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Meta Box : v5.2.7 (MetaBox.io)
+[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Slim SEO : v3.2.2 (eLightUp)
+[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] ThemeGrill Demo Importer : v1.6.3 (ThemeGrill)
+[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.3 (Themeisle)
