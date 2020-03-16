@@ -1,20 +1,26 @@
-[06/Mar/2020:11:23:58] (ℹ️): WordPress Instance Info:
-[06/Mar/2020:11:23:58] (ℹ️): Home URL : http://localhost/Tuxcar
-[06/Mar/2020:11:23:58] (ℹ️): Site URL : http://localhost/Tuxcar
-[06/Mar/2020:11:23:58] (ℹ️): WordPress Version : 5.3.2
-[06/Mar/2020:11:23:58] (ℹ️): Onboarding Version : 1.7.12
-[06/Mar/2020:11:23:58] (ℹ️): Multisite : No
-[06/Mar/2020:11:23:58] (ℹ️): Server Info : Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.7
-[06/Mar/2020:11:23:58] (ℹ️): PHP Version : 7.3.7
-[06/Mar/2020:11:23:58] (ℹ️): HTTPS : No
-[06/Mar/2020:11:23:58] (ℹ️): PHP Max Execution Time : 30
-[06/Mar/2020:11:23:58] (ℹ️): PHP Max Input Vars : 1000
-[06/Mar/2020:11:23:58] (ℹ️): Max Upload Size : 2097152
-[06/Mar/2020:11:23:58] (ℹ️): Plugins:
-[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Auto Listings : v2.1.8 (WP Auto Listings)
-[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Everest Forms : v1.6.3 (WPEverest)
-[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Jetpack por WordPress.com : v8.3 (Automattic)
-[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Meta Box : v5.2.7 (MetaBox.io)
-[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Slim SEO : v3.2.2 (eLightUp)
-[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] ThemeGrill Demo Importer : v1.6.3 (ThemeGrill)
-[06/Mar/2020:11:23:58] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.3 (Themeisle)
+[16/Mar/2020:14:19:56] (ℹ️): WordPress Instance Info:
+[16/Mar/2020:14:19:56] (ℹ️): Home URL : http://localhost/Tuxcar
+[16/Mar/2020:14:19:56] (ℹ️): Site URL : http://localhost/Tuxcar
+[16/Mar/2020:14:19:56] (ℹ️): WordPress Version : 5.3.2
+[16/Mar/2020:14:19:56] (ℹ️): Onboarding Version : 1.8.2
+[16/Mar/2020:14:19:56] (ℹ️): Multisite : No
+[16/Mar/2020:14:19:56] (ℹ️): Server Info : Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9
+[16/Mar/2020:14:19:56] (ℹ️): PHP Version : 7.3.9
+[16/Mar/2020:14:19:56] (ℹ️): HTTPS : No
+[16/Mar/2020:14:19:56] (ℹ️): PHP Max Execution Time : 30
+[16/Mar/2020:14:19:56] (ℹ️): PHP Max Input Vars : 1000
+[16/Mar/2020:14:19:56] (ℹ️): Max Upload Size : 2097152
+[16/Mar/2020:14:19:56] (ℹ️): Plugins:
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] Everest Forms : v1.6.3 (WPEverest)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] Sendinblue Subscribe Form And WP SMTP : v2.9.11 (Sendinblue)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] Meta Box : v5.2.7 (MetaBox.io)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.4.1 (ThemeIsle)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] Widget de Tópicos Recentes Extendido : v0.9.9.7 (Satrya)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] Recent Posts Widget With Thumbnails : v6.7.0 (Martin Stehle)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] Slim SEO : v3.2.2 (eLightUp)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] ThemeGrill Demo Importer : v1.6.3 (ThemeGrill)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.3 (Themeisle)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] Brazilian Market on WooCommerce : v3.7.2 (Claudio Sanches)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] Claudio Sanches - PagSeguro for WooCommerce : v2.14.0 (Claudio Sanches)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] WooCommerce : v4.0.0 (Automattic)
+[16/Mar/2020:14:19:56] (ℹ️): [PLUGIN] WPForms Lite : v1.5.9.1 (WPForms)

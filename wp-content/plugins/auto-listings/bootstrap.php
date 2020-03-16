@@ -18,6 +18,7 @@ new Shortcodes;
 new Query;
 new SearchForm;
 new SearchQuery;
+new Upgrade\Manager;
 
 if ( is_admin() ) {
 	new Admin\Main;
@@ -26,6 +27,15 @@ if ( is_admin() ) {
 	new Enquiry\AdminColumns;
 	new Admin\SellerColumns;
 	new Admin\Settings;
+
+	// Update.
+	$update_option  = new Update\Option();
+	$update_checker = new Update\Checker( $update_option );
+	$update_checker->init();
+	$update_settings = new Update\Settings( $update_checker, $update_option );
+	$update_settings->init();
+	$update_notification = new Update\Notification( $update_checker, $update_option );
+	$update_notification->init();
 }
 if ( ( ! is_admin() || wp_doing_ajax() ) && ! wp_doing_cron() ) {
 	new Frontend\Main;
